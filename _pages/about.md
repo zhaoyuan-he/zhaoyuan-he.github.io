@@ -16,7 +16,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student in Computer Science at The University of Texas at Austin. I am very honored to be advised by [Prof. Lili Qiu](https://www.cs.utexas.edu/~lili/). My research interests span areas of wireless networking, mobile computing, and machine learning systems, with emphasis on the use of AI/ML approaches for Internet video delivery. 
