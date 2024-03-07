@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in Computer Science at The University of Texas at Austin. I am very honored to be advised by [Prof. Lili Qiu](https://www.cs.utexas.edu/~lili/). My research interests span areas of wireless networking, mobile computing, and machine learning systems, with emphasis on the use of AI/ML approaches for Internet video delivery. I also have a broad interest in efficient/tiny ML and its applications on resource-constrained devices.
+I am a Ph.D. student in Computer Science at The University of Texas at Austin. I am very honored to be advised by [Prof. Lili Qiu](https://www.cs.utexas.edu/~lili/). I am also affiliated with the [Wireless Networking & Communications Group](https://wncg.org/) (WNCG). My research interests span areas of wireless networking, mobile computing, and machine learning systems, with emphasis on the use of AI/ML approaches for Internet video delivery. I also have a broad interest in efficient/tiny ML and its applications on resource-constrained devices.
 
 Before joining UT-Austin, I obtained my M.S. degree in Electrical and Computer Engineering from University of California San Diego in 2019, where I was fortunate to work with [Prof. Xinyu Zhang](http://xyzhang.ucsd.edu/). Prior to that, I received my B.S. degree in Electronic Information Engineering from Beihang University (former BUAA) in 2017.
 
