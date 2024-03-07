@@ -23,7 +23,7 @@ I am a Ph.D. student in Computer Science at [The University of Texas at Austin](
 
 Before joining UT-Austin, I obtained my M.S. degree in Electrical and Computer Engineering from [University of California San Diego](https://ucsd.edu/) in 2019, where I was fortunate to work with [Prof. Xinyu Zhang](http://xyzhang.ucsd.edu/). Prior to that, I received my B.S. degree in Electronic Information Engineering from Beihang University (former BUAA) in 2017.
 
-<!-- Feel free to reach out to me if you are interested in my experience and research. -->
+Feel free to reach out to me if you are interested in my experience and research.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
