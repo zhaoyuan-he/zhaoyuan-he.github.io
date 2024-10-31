@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a software engineer at NVIDIA, specializing in the TensorRT team.
+I am a software engineer at NVIDIA, specializing in the [TensorRT](https://developer.nvidia.com/tensorrt) team.
 
 I received my Ph.D. in Computer Science from [The University of Texas at Austin](https://www.utexas.edu/), where I was very honored to be advised by [Prof. Lili Qiu](https://www.cs.utexas.edu/~lili/). I was also affiliated with the [Wireless Networking & Communications Group](https://wncg.org/) (WNCG). My research interests span areas of wireless networks, mobile computing, and machine learning systems, with emphasis on the use of AI/ML approaches for Internet video delivery. I also have a broad interest in efficient/tiny ML and its applications on resource-constrained devices.
 
